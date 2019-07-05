@@ -1,7 +1,7 @@
 # Numerical-Algorithms
-Projects from Numerical methods for PDE's course : 
+Numerical methods projects from Aeronautical engineering's course : 
 
-086172 - [Numerical Method in Aeronautical Engineering](https://www.graduate.technion.ac.il/Subjects.Heb/?Sub=86172) 
+086172 - [Numerical Method in Aeronautical Engineering](https://www.graduate.technion.ac.il/Subjects.Heb/?Sub=86172).
 
 **Sylabus** :
 
