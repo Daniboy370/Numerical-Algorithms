@@ -7,4 +7,5 @@ Projects and their hands-on algorithms Aeronautical engineering's course :
 Development, analysis and implementation of finite difference numerical methods 
 for solving classic type partial differential equations parabolic, elliptic and hyperbolic.
 
+A bite of one of the projects :
 ![alt text](https://github.com/Daniboy370/Numerical-Algorithms/blob/master/2nd%20Order%20Coupled%20ODEs/Code/description_2.png)
