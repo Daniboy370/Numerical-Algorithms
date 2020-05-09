@@ -23,3 +23,6 @@ normal to its radial axis in an incompressible Newtonian fluid at rest.
 **Polygon PDE project** :
 Steady-state solution to a heat transfer problem exhibiting the distribution in a 2-D shape plate.
 ![alt text](https://github.com/Daniboy370/Numerical-Algorithms/blob/master/2nd%20Order%20Coupled%20ODEs/Code/description_2.png)
+
+## Requirements
+Matlab - basic without further packages.
